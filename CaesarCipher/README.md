@@ -9,6 +9,8 @@ with a left shift of 3, D would be replaced by A, E would become B, and so on. T
 who used it in his private correspondence.
 
 For decriprion I used  chi-squared method.
+
 [WIKI cipher](https://en.wikipedia.org/wiki/Caesar_cipher)
+
 [WIKI chi-squared](https://en.wikipedia.org/wiki/Chi-squared_test)
 ---
